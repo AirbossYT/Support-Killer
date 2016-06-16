@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Support Killer</ModName>
+  <ModDiscription>A Support Killer</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Support Killer@Support Killer</OBJName>
+      <Type>deco</Type>
+      <inGameName>Support Killer</inGameName>
+      <price>0</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Support Killer</category>
+      <heightDelta>1</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+      <BoudingBoxes>
+        <BoudingBox>
+          <min>(-0.2, 0.0, -0.2)</min>
+          <max>(0.2, 0.5, 0.2)</max>
+        </BoudingBox>
+      </BoudingBoxes>
+    </Object>
+  </Objects>
+</Mod>
